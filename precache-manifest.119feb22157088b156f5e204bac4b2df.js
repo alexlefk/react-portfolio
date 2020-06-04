@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "caa3ffa96fccc9ddd0e10e93d15f770e",
+    "revision": "b60c6e5c4783c483fc4ebc68448e2fec",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "246a42544cdc49f17a9d",
+    "revision": "17122c7a6da3ee6f0b50",
     "url": "/react-portfolio/static/css/2.3457026e.chunk.css"
   },
   {
-    "revision": "f2179801057cc1a7ec28",
+    "revision": "210e2c46ed380d20f3f3",
     "url": "/react-portfolio/static/css/main.6d8bf32b.chunk.css"
   },
   {
-    "revision": "246a42544cdc49f17a9d",
-    "url": "/react-portfolio/static/js/2.05c1fea2.chunk.js"
+    "revision": "17122c7a6da3ee6f0b50",
+    "url": "/react-portfolio/static/js/2.fa661748.chunk.js"
   },
   {
     "revision": "c6e0b5ee3e9e48d018faabe53a1b150a",
-    "url": "/react-portfolio/static/js/2.05c1fea2.chunk.js.LICENSE.txt"
+    "url": "/react-portfolio/static/js/2.fa661748.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2179801057cc1a7ec28",
-    "url": "/react-portfolio/static/js/main.83161652.chunk.js"
+    "revision": "210e2c46ed380d20f3f3",
+    "url": "/react-portfolio/static/js/main.92bde284.chunk.js"
   },
   {
     "revision": "be3cb1a3dfa81366eb8c",
@@ -60,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/hellenicsun-project.799b402e.JPG"
   },
   {
+    "revision": "b502c9d3864f539d3368398759385c10",
+    "url": "/react-portfolio/static/media/iliactides-project.b502c9d3.JPG"
+  },
+  {
     "revision": "05acfdb568b3df49ad31355b19495d4a",
     "url": "/react-portfolio/static/media/ionicons.05acfdb5.woff"
   },
@@ -80,6 +84,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/kefalonia-project.52727858.JPG"
   },
   {
+    "revision": "cab3ed832662ab3086f3125e99f84975",
+    "url": "/react-portfolio/static/media/livadaki-project.cab3ed83.JPG"
+  },
+  {
     "revision": "a82ab1cd3c28c0a07a4932d57176cb88",
     "url": "/react-portfolio/static/media/male.a82ab1cd.png"
   },
@@ -94,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bd80794fddbffb4031fab537cc898680",
     "url": "/react-portfolio/static/media/myImage.bd80794f.png"
+  },
+  {
+    "revision": "6d0d6ad351db894d418c621a7bce3b09",
+    "url": "/react-portfolio/static/media/robofriends-project.6d0d6ad3.JPG"
   },
   {
     "revision": "39e4c18d50b8cd5a6945970f1ca24136",
