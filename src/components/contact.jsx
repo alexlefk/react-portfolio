@@ -20,11 +20,7 @@ class Contact extends React.Component {
                         <h5 className="title-left">Send A Message</h5>
                       </div>
                       <div>
-                        <form
-                          action="https://formspree.io/xdoeonlo"
-                          method="POST"
-                          className="contactForm"
-                        >
+                        <form action="#" method="POST" className="contactForm">
                           <div id="sendmessage">
                             Your message has been sent. Thank you!
                           </div>
@@ -87,7 +83,7 @@ class Contact extends React.Component {
                             </div>
                             <div className="col-md-12">
                               <button
-                                type="submit"
+                                type="#"
                                 className="button button-a button-big button-rouded"
                               >
                                 Send Message
