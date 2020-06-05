@@ -6,26 +6,38 @@ class About extends React.Component {
     super();
     this.state = {
       skills: [
-        { id: "HTML5_skill", content: "HTML5", porcentage: "90%", value: "90" },
-        { id: "CSS3_skill", content: "CSS3", porcentage: "75%", value: "75" },
+        {
+          id: "HTML5_skill",
+          content: "HTML5",
+          //  porcentage: "90%", value: "90"
+        },
+        {
+          id: "CSS3_skill",
+          content: "CSS3",
+          // porcentage: "75%", value: "75"
+        },
         {
           id: "JavaScript_skill",
           content: "JavaScript",
-          porcentage: "65%",
-          value: "65",
+          // porcentage: "65%",
+          // value: "65",
         },
-        { id: "PHP_skill", content: "PHP", porcentage: "70%", value: "70" },
+        {
+          id: "PHP_skill",
+          content: "PHP",
+          // porcentage: "70%", value: "70"
+        },
         {
           id: "ReactJS_skill",
           content: "ReactJS",
-          porcentage: "70%",
-          value: "70",
+          // porcentage: "70%",
+          // value: "70",
         },
         {
           id: "Wordpress_skill",
           content: "Wordpress",
-          porcentage: "90%",
-          value: "90",
+          // porcentage: "90%",
+          // value: "90",
         },
       ],
       about_me: [
