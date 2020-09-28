@@ -44,7 +44,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "I am an experienced engineer with background in working on web design-development and Software support services. Currently, I am looking for the opportunity to work as a software engineer, focusing on web applications both in front-end and back-end development. ",
+            "I am an experienced engineer with background in working on web design-development and Software/Web support services. ",
         },
       ],
     };
