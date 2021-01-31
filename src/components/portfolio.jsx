@@ -255,7 +255,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Robofriends App</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            Javascript Nodejs ReactJS Redux
+                            Javascript Nodejs ReactJS
                           </span>
                         </div>
                       </div>

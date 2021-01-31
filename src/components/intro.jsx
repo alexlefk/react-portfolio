@@ -15,7 +15,7 @@ class Intro extends React.Component {
           <div className="table-cell">
             <div className="container">
               <h1 className="intro-title mb-4">
-                Hello, I am Alexandros Lefkidis.
+                Hello, I am Alex Lefkidis.
               </h1>
               <p className="intro-subtitle">
                 <span className="text-slider-items"></span>
@@ -23,8 +23,8 @@ class Intro extends React.Component {
                   <Typed
                     strings={[
                       "Web Design",
-                      "Business Growth",
                       "Web Hosting",
+                      "Business Growth",
                     ]}
                     typeSpeed={80}
                     backDelay={1100}
