@@ -8,43 +8,40 @@ class About extends React.Component {
       skills: [
         {
           id: "HTML5_skill",
-          content: "HTML5",
-          //  porcentage: "90%", value: "90"
+          content: "SEO Optimization",
+          
         },
         {
           id: "CSS3_skill",
-          content: "CSS3",
-          // porcentage: "75%", value: "75"
+          content: "Responsive Web Design",
+          
         },
         {
           id: "JavaScript_skill",
-          content: "JavaScript",
-          // porcentage: "65%",
-          // value: "65",
+          content: "E-Shops",
+          
         },
         {
           id: "PHP_skill",
-          content: "PHP",
-          // porcentage: "70%", value: "70"
+          content: "Business Landing Pages",
+          
         },
         {
           id: "ReactJS_skill",
-          content: "ReactJS",
-          // porcentage: "70%",
-          // value: "70",
+          content: "Web Hosting",
+          
         },
         {
           id: "Wordpress_skill",
           content: "Wordpress",
-          // porcentage: "90%",
-          // value: "90",
+          
         },
       ],
       about_me: [
         {
           id: "first-p-about",
           content:
-            "I am an experienced engineer with background in working on Web Design and Software/Web support services. ",
+            "I am an experienced engineer with background in working on Web Design and Software/Web support services. Let me help you skyrocket your revenue with powerful Wordpress websites & proven SEO.",
         },
       ],
     };

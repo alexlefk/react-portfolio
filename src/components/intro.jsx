@@ -15,15 +15,15 @@ class Intro extends React.Component {
           <div className="table-cell">
             <div className="container">
               <h1 className="intro-title mb-4">
-                Hello, I am Alex Lefkidis.
+                Web Design by Alex
               </h1>
               <p className="intro-subtitle">
                 <span className="text-slider-items"></span>
                 <strong className="text-slider">
                   <Typed
                     strings={[
-                      "Web Design",
-                      "Web Hosting",
+                      "Pixel perfect web design",
+                      "Guaranteed SEO",
                       "Business Growth",
                     ]}
                     typeSpeed={80}
