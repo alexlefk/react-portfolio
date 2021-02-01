@@ -15,7 +15,7 @@ class Intro extends React.Component {
           <div className="table-cell">
             <div className="container">
               <h1 className="intro-title mb-4">
-                Web Design by Alex
+                Alex Digital
               </h1>
               <p className="intro-subtitle">
                 <span className="text-slider-items"></span>
