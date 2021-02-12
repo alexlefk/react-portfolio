@@ -16,21 +16,21 @@ class About extends React.Component {
           content: "Responsive Web Design",
           
         },
-        {
-          id: "JavaScript_skill",
-          content: "E-Shops",
+        // {
+        //   id: "JavaScript_skill",
+        //   content: "E-Shops",
           
-        },
-        {
-          id: "PHP_skill",
-          content: "Business Landing Pages",
+        // },
+        // {
+        //   id: "PHP_skill",
+        //   content: "Business Landing Pages",
           
-        },
-        {
-          id: "ReactJS_skill",
-          content: "Web Hosting",
+        // },
+        // {
+        //   id: "ReactJS_skill",
+        //   content: "Web Hosting",
           
-        },
+        // },
         {
           id: "Wordpress_skill",
           content: "Wordpress",
