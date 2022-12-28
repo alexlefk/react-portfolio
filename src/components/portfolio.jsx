@@ -147,7 +147,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Cajelo</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            E-Shop Creation Project, Wordpress, Woocommerce
+                            E-Shop Creation Project Wordpress Woocommerce
                           </span>
                         </div>
                       </div>
