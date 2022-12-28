@@ -8,7 +8,7 @@ class About extends React.Component {
       skills: [
         {
           id: "HTML5_skill",
-          content: "SEO Optimization",
+          content: "E-Shop Development",
           
         },
         {
@@ -41,7 +41,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "I am an experienced engineer with background in working on Web Design and Software/Web support services. Let me help you skyrocket your revenue with powerful Wordpress websites & proven SEO.",
+            "I am an experienced engineer with background in working on Web Design and Software Support services.",
         },
       ],
     };
