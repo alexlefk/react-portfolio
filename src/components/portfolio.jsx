@@ -137,18 +137,17 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href="https://smart-eye.herokuapp.com/" target="_blank">
+                <a href="https://cajelo.com/" target="_blank">
                   <div className="work-img">
                     <img src={stock4} alt="" className="img-fluid" />
                   </div>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Smart-Eye</h2>
+                        <h2 className="w-title">Cajelo</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            REACTJS NODEJS POSTGRESQL Clarifai Face Recognition
-                            API
+                            E-Shop Creation Project, Wordpress, Woocommerce
                           </span>
                         </div>
                       </div>
