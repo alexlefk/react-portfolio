@@ -22,8 +22,8 @@ class Intro extends React.Component {
                 <strong className="text-slider">
                   <Typed
                     strings={[
-                      "Pixel perfect web design",
-                      "Guaranteed SEO",
+                      "Wordpress Design",
+                      "Eshop Development",
                       "Business Growth",
                     ]}
                     typeSpeed={80}
