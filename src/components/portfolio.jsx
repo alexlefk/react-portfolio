@@ -111,14 +111,14 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href="https://venusrental.gr/" target="_blank">
+                <a href="https://www.ionianseahospitality.com/en/ionian-sea-hospitality-2/" target="_blank">
                   <div className="work-img">
                     <img src={stock3} alt="" className="img-fluid" />
                   </div>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Venus Rental</h2>
+                        <h2 className="w-title">Ionian Sea Hospitality</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
                             HTML5 CSS3 PHP Wordpress
